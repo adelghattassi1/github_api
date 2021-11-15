@@ -1,0 +1,40 @@
+[
+    {
+        "Login name": "username",
+        "User ID": 25127148,
+        "Resource URI": "https://github.com/username",
+        "Public repositories": [
+            [
+                {
+                    "Repository name": "Repo name",
+                    "ID": 14003774232,
+                    "Time created": "2018-07-06T23:22:44Z",
+                    "Time updated": "2018-07-06T23:22:47Z",
+                    "Resource URI": "https://github.com/username/repo_name",
+                    "Latest commit": {
+                        "Commit hash": "commit_hash",
+                        "Author": "John Doe",
+                        "committer email": "committer@email.com",
+                        "Commit date": "2018-06-14T17:40:14Z",
+                        "Resource URI": "https://github.com/username/repo_name/commit/commit_hash"
+                    }
+                },
+                {
+                    "Repository name": "Repo name",
+                    "ID": 14003774232,
+                    "Time created": "2018-07-06T23:22:44Z",
+                    "Time updated": "2018-07-06T23:22:47Z",
+                    "Resource URI": "https://github.com/username/repo_name",
+                    "Latest commit": {
+                        "Commit hash": "commit_hash",
+                        "Author": "John Doe",
+                        "committer email": "committer@email.com",
+                        "Commit date": "2018-06-14T17:40:14Z",
+                        "Resource URI": "https://github.com/username/repo_name/commit/commit_hash"
+                    }
+                }
+
+            ]
+        ]
+    }
+]
