@@ -5,7 +5,7 @@ steps to run the project
 
 **In order to run this project you need** ``Python Version 3.8`` :
 
-* cd BFFChallenge/api.
+* cd api.
 
 * run pip3 install -r requirements.txt
 
